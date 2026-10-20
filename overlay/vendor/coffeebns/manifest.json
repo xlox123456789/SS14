@@ -1,0 +1,94 @@
+{
+  "repository": "https://github.com/blahdot3h/tartarus-simulator",
+  "commit": "12b85db88cc8a3ba9c63a7d52be7b9ddb0c888fd",
+  "assetTag": "20261018p",
+  "hashMode": "SHA256 UTF-8 with CRLF normalized to LF",
+  "files": {
+    "js/scan.js": {
+      "source": "js/scan.js",
+      "sha256": "ebeba6489dd10667d1c208a0c967d065227104ec732ff87ccec311895586090b"
+    },
+    "js/scan-data.js": {
+      "source": "js/scan-data.js",
+      "sha256": "f57960d9b2625c1ea6adcebe378b90598ce7fdc2af26c856bf03394884db6e22"
+    },
+    "js/scan-worker.js": {
+      "source": "js/scan-worker.js",
+      "sha256": "1736854c09de7fa59cc19999ee3f805f98c8a209f878c31ead996e91cb7218ad"
+    },
+    "js/pick-data.js": {
+      "source": "js/pick-data.js",
+      "sha256": "0b642717e1f0fefaeb449f05824cdf2732a98cf59233433335a7e2b8cff30ce8"
+    },
+    "js/engine.js": {
+      "source": "js/engine.js",
+      "sha256": "c82874e6d3c32b6b42e02560e2f97fdb243551a6066cbb8ff170f922a3a8b713"
+    },
+    "js/board.js": {
+      "source": "js/board.js",
+      "sha256": "74fa962c7bfa0550ffcbbfaa52fc125592bb179752a3b0f1e0ade74bc527786a"
+    },
+    "js/analyze.js": {
+      "source": "js/analyze.js",
+      "sha256": "04e0c5b36b65d6f6a410219d2defad76291de677e490ca9628dd137efa87092d"
+    },
+    "tools/scan-test.js": {
+      "source": "tools/scan-test.js",
+      "sha256": "62da3564bfc6ef4ff0861b5a2a6ff6aad0d3ce0cfd0c244a120d9b4126e520f9"
+    },
+    "tools/scan-build.js": {
+      "source": "tools/scan-build.js",
+      "sha256": "45dbcb2bb764bddc8f9388a39b9e2eb804feeda4f18045059748d8f2eed493c2"
+    },
+    "tools/scan-truth.json": {
+      "source": "tools/scan-truth.json",
+      "sha256": "b214c48c298455974510699502e3f1b8ad3f6a516e1d55a09cb87d5211724773"
+    },
+    "tools/png.js": {
+      "source": "tools/png.js",
+      "sha256": "2ec1380556a11b53d84dad8217c4f7ca2de2c943acd69ece082f604a053a664b"
+    },
+    "tools/README.md": {
+      "source": "tools/README.md",
+      "sha256": "d88297be73b59e861d6a9b4ebfda0c7b7d9c9f01ab0db8512628b88fcae7fc22"
+    },
+    "UPSTREAM_README.md": {
+      "source": "README.md",
+      "sha256": "0d0c2c3e0a29655db93586210f1d36e51b4a77400c0c9c91ae4f41217d7702d2",
+      "upstreamSha256": "5cab306c5541ff83d59e4d9465c659b27cbcab6010e2d12ae19f8266d9ebafc7",
+      "adaptation": "Display-name translation only; original attribution and links preserved."
+    },
+    "UPSTREAM_DESKTOP_PACKAGE.json": {
+      "source": "desktop/package.json",
+      "sha256": "bd0c638e12db804d9f48e6179bfedc314f3a5faf3c50f2a952da5f6ea45faa80"
+    },
+    "js/capture.js": {
+      "source": "js/capture.js",
+      "sha256": "e21e91a0bb06da30367b5098984401a71ccfa615e48d6c8da31870ed2db5d1ad"
+    },
+    "js/follow.js": {
+      "source": "js/follow.js",
+      "sha256": "a38522b75da6cd8340b6f0217bc25e0a48d03597de34265b15c4892c3914ae01"
+    },
+    "js/auto.js": {
+      "source": "js/auto.js",
+      "sha256": "7379275838bfdfe5ec2e50d9faa7fc8377eb156c4a85ac9f84b1bbd086014715"
+    },
+    "desktop/main.js": {
+      "source": "desktop/main.js",
+      "sha256": "fdb79908f1a5cd1fc46b5043ebb1f8cc0c6ea95ec10e0a1484641017cf7222ac"
+    },
+    "js/solver.js": {
+      "source": "js/solver.js",
+      "sha256": "9cd20f00953c23b7e47e521298a0dbf827c797e7a8e46e7c23b82e862e6a92a3"
+    },
+    "js/solver-worker.js": {
+      "source": "js/solver-worker.js",
+      "sha256": "c71cd19d6c4e06ce8c0b8c743a707595c0e47b44c17a1da693db9161c1817472"
+    },
+    "js/tool-combos.js": {
+      "source": "js/tool-combos.js",
+      "sha256": "ee1caafac83a91e38d7a429b7d5f2c1daec8b48eac561eca717b49c307abec38"
+    }
+  }
+}

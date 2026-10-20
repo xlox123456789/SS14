@@ -1,0 +1,125 @@
+{
+  "model": {
+    "mode": "drill",
+    "chain": "single",
+    "rewards": true,
+    "day": 11,
+    "maxDays": 20,
+    "step": "patrol",
+    "warden": 3,
+    "dest": [
+      5,
+      6,
+      8
+    ],
+    "devourUsed": false,
+    "swapUsed": false,
+    "eventKind": "chain",
+    "choice": {
+      "kind": "tool",
+      "options": []
+    },
+    "windowKind": "due",
+    "chainArmed": false,
+    "milestone": false,
+    "tools": [],
+    "vault": [],
+    "cells": [
+      {
+        "kind": "office"
+      },
+      {
+        "kind": "inmate",
+        "beast": "wolf",
+        "tier": 1,
+        "ivory": false,
+        "prey": null
+      },
+      {
+        "kind": "sealed",
+        "event": null
+      },
+      {
+        "kind": "inmate",
+        "beast": "rat",
+        "tier": 0,
+        "ivory": false,
+        "prey": null
+      },
+      {
+        "kind": "inmate",
+        "beast": "wolf",
+        "tier": 1,
+        "ivory": false,
+        "prey": null
+      },
+      {
+        "kind": "sealed",
+        "event": null
+      },
+      {
+        "kind": "inmate",
+        "beast": "wolf",
+        "tier": 0,
+        "ivory": false,
+        "prey": null
+      },
+      {
+        "kind": "inmate",
+        "beast": "lion",
+        "tier": 1,
+        "ivory": false,
+        "prey": null
+      },
+      {
+        "kind": "sealed",
+        "event": null
+      },
+      {
+        "kind": "sealed",
+        "event": null
+      },
+      {
+        "kind": "sealed",
+        "event": null
+      },
+      {
+        "kind": "sealed",
+        "event": null
+      },
+      {
+        "kind": "inmate",
+        "beast": "mammoth",
+        "tier": 2,
+        "ivory": false,
+        "prey": null
+      },
+      {
+        "kind": "inmate",
+        "beast": "wolf",
+        "tier": 4,
+        "ivory": false,
+        "prey": null
+      },
+      {
+        "kind": "inmate",
+        "beast": "wolf",
+        "tier": 2,
+        "ivory": false,
+        "prey": null
+      },
+      {
+        "kind": "sealed",
+        "event": null
+      }
+    ],
+    "ch": null,
+    "ended": false
+  },
+  "fixtureSource": {
+    "commit": "12b85db88cc8a3ba9c63a7d52be7b9ddb0c888fd",
+    "file": "beta/data/raw/2026-10-16.jsonl",
+    "id": 1030,
+    "note": "Public board data for editing/compatibility tests; not a screenshot recognition fixture."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "ss14",
+  "productName": "SS14",
+  "version": "0.5.3",
+  "description": "SS14 繁體中文桌面浮層、畫面分析與操作建議。",
+  "license": "UNLICENSED",
+  "private": true,
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "44.5.1"
+  },
+  "author": "SS14 Contributors",
+  "build": {
+    "appId": "local.ss14.overlay",
+    "productName": "SS14",
+    "asar": true,
+    "npmRebuild": false,
+    "directories": {
+      "output": "../dist"
+    },
+    "files": [
+      "main.js",
+      "package.json",
+      "build/icon.png",
+      "src/**/*",
+      "vendor/coffeebns/**/*"
+    ],
+    "win": {
+      "target": [
+        "portable",
+        "zip"
+      ],
+      "signAndEditExecutable": false,
+      "artifactName": "SS14-${version}-win-${arch}.${ext}"
+    },
+    "portable": {
+      "artifactName": "SS14-${version}-portable.exe"
+    }
+  }
+}

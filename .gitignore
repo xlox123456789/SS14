@@ -1,0 +1,6 @@
+overlay/node_modules/
+overlay/.electron-cache/
+tests/.runs/
+.research/
+dist/
+node_modules/
