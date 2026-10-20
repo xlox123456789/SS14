@@ -4,6 +4,8 @@
 - Settings window, saved preferences and restart persistence verified.
 - Packaged background scanner recognizes a genuine local screenshot; no private screenshot is included.
 - Packaged upstream Solver returns a legal recommendation.
-- 17 logic and queue regression tests pass.
+- 18 logic and queue regression tests pass.
 - 21 recorded upstream source hashes and generated adapters verify.
 - Source publication excludes private profiles, screenshots, logs, local paths and development history.
+
+- Portable single-file package extraction and native SS14 window startup verified.
